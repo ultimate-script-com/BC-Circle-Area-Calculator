@@ -1,0 +1,9 @@
+define pi(r) {
+    scale = 10
+    result = r ^ 2 * 4 * a(1)
+    return result
+}
+
+n = read()
+pi(n)
+quit
